@@ -1,7 +1,7 @@
 {
   "ok": true,
   "source": "sevilla",
-  "generated": "2026-10-09T21:57:47.677Z",
+  "generated": "2026-10-09T22:07:38.984Z",
   "event": {
     "id": "sev_6bmyrj",
     "name": "",
@@ -21,6 +21,17 @@
       "name": "Nino Kingma",
       "club": "",
       "rating": 0,
+      "ts": 0,
+      "group": "",
+      "presence": "pending"
+    },
+    {
+      "id": "sev_50f7k5",
+      "firstName": "Nino",
+      "lastName": "Kingma",
+      "name": "Nino Kingma",
+      "club": "",
+      "rating": 1799,
       "ts": 0,
       "group": "",
       "presence": "pending"
