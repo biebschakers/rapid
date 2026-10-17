@@ -1,7 +1,7 @@
 {
   "ok": true,
   "source": "sevilla",
-  "generated": "2026-10-16T16:58:11.773Z",
+  "generated": "2026-10-17T10:08:40.710Z",
   "event": {
     "id": "sev_6bmyrj",
     "name": "",
@@ -32,6 +32,17 @@
       "name": "Omer Cubuk",
       "club": "Bieb",
       "rating": 1843,
+      "ts": 0,
+      "group": "",
+      "presence": "pending"
+    },
+    {
+      "id": "sev_ulup7y",
+      "firstName": "Maria",
+      "lastName": "Syed",
+      "name": "Maria Syed",
+      "club": "",
+      "rating": 1200,
       "ts": 0,
       "group": "",
       "presence": "pending"
