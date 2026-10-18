@@ -1,7 +1,7 @@
 {
   "ok": true,
   "source": "sevilla",
-  "generated": "2026-10-17T10:08:40.710Z",
+  "generated": "2026-10-18T08:01:10.216Z",
   "event": {
     "id": "sev_6bmyrj",
     "name": "",
@@ -43,6 +43,17 @@
       "name": "Maria Syed",
       "club": "",
       "rating": 1200,
+      "ts": 0,
+      "group": "",
+      "presence": "pending"
+    },
+    {
+      "id": "sev_3vvg5t",
+      "firstName": "Bahman",
+      "lastName": "Radfar",
+      "name": "Bahman Radfar",
+      "club": "RSR Ivoren Toren",
+      "rating": 1930,
       "ts": 0,
       "group": "",
       "presence": "pending"
