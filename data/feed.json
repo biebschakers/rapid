@@ -1,7 +1,7 @@
 {
   "ok": true,
   "source": "sevilla",
-  "generated": "2026-10-18T08:01:10.216Z",
+  "generated": "2026-11-02T13:55:55.619Z",
   "event": {
     "id": "sev_6bmyrj",
     "name": "",
@@ -54,6 +54,17 @@
       "name": "Bahman Radfar",
       "club": "RSR Ivoren Toren",
       "rating": 1930,
+      "ts": 0,
+      "group": "",
+      "presence": "pending"
+    },
+    {
+      "id": "sev_9m7207",
+      "firstName": "Yvo",
+      "lastName": "van der Hoek",
+      "name": "Yvo van der Hoek",
+      "club": "schaakklub Oost Souburg",
+      "rating": 1700,
       "ts": 0,
       "group": "",
       "presence": "pending"
