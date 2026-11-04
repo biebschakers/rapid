@@ -1,7 +1,7 @@
 {
   "ok": true,
   "source": "sevilla",
-  "generated": "2026-11-02T13:55:55.619Z",
+  "generated": "2026-11-04T20:19:18.605Z",
   "event": {
     "id": "sev_6bmyrj",
     "name": "",
@@ -65,6 +65,17 @@
       "name": "Yvo van der Hoek",
       "club": "schaakklub Oost Souburg",
       "rating": 1700,
+      "ts": 0,
+      "group": "",
+      "presence": "pending"
+    },
+    {
+      "id": "sev_1nsm84",
+      "firstName": "San",
+      "lastName": "Dino Arcilla",
+      "name": "San Dino Arcilla",
+      "club": "",
+      "rating": 1500,
       "ts": 0,
       "group": "",
       "presence": "pending"
