@@ -1,7 +1,7 @@
 {
   "ok": true,
   "source": "sevilla",
-  "generated": "2026-11-04T20:19:18.605Z",
+  "generated": "2026-11-05T15:43:13.287Z",
   "event": {
     "id": "sev_6bmyrj",
     "name": "",
@@ -76,6 +76,17 @@
       "name": "San Dino Arcilla",
       "club": "",
       "rating": 1500,
+      "ts": 0,
+      "group": "",
+      "presence": "pending"
+    },
+    {
+      "id": "sev_9mkkbm",
+      "firstName": "Ray",
+      "lastName": "Sedaghat",
+      "name": "Ray Sedaghat",
+      "club": "",
+      "rating": 0,
       "ts": 0,
       "group": "",
       "presence": "pending"
