@@ -1,7 +1,7 @@
 {
   "ok": true,
   "source": "sevilla",
-  "generated": "2026-11-05T15:43:13.287Z",
+  "generated": "2026-11-08T10:38:20.649Z",
   "event": {
     "id": "sev_6bmyrj",
     "name": "",
@@ -85,6 +85,17 @@
       "firstName": "Ray",
       "lastName": "Sedaghat",
       "name": "Ray Sedaghat",
+      "club": "",
+      "rating": 0,
+      "ts": 0,
+      "group": "",
+      "presence": "pending"
+    },
+    {
+      "id": "sev_36j7gp",
+      "firstName": "Aleksandr",
+      "lastName": "Ryzhenkov",
+      "name": "Aleksandr Ryzhenkov",
       "club": "",
       "rating": 0,
       "ts": 0,
