@@ -1,7 +1,7 @@
 {
   "ok": true,
   "source": "sevilla",
-  "generated": "2026-11-08T10:38:20.649Z",
+  "generated": "2026-11-09T19:51:20.851Z",
   "event": {
     "id": "sev_6bmyrj",
     "name": "",
@@ -98,6 +98,17 @@
       "name": "Aleksandr Ryzhenkov",
       "club": "",
       "rating": 0,
+      "ts": 0,
+      "group": "",
+      "presence": "pending"
+    },
+    {
+      "id": "sev_i51qm8",
+      "firstName": "Youssef",
+      "lastName": "Sakhi",
+      "name": "Youssef Sakhi",
+      "club": "",
+      "rating": 500,
       "ts": 0,
       "group": "",
       "presence": "pending"
