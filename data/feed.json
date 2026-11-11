@@ -1,7 +1,7 @@
 {
   "ok": true,
   "source": "sevilla",
-  "generated": "2026-11-10T17:00:22.268Z",
+  "generated": "2026-11-11T11:36:50.072Z",
   "event": {
     "id": "sev_6bmyrj",
     "name": "",
@@ -120,6 +120,17 @@
       "name": "Victor Vodegel",
       "club": "",
       "rating": 550,
+      "ts": 0,
+      "group": "",
+      "presence": "pending"
+    },
+    {
+      "id": "sev_50ugg9",
+      "firstName": "Chris",
+      "lastName": "Beljaars",
+      "name": "Chris Beljaars",
+      "club": "",
+      "rating": 1300,
       "ts": 0,
       "group": "",
       "presence": "pending"
