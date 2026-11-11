@@ -1,7 +1,7 @@
 {
   "ok": true,
   "source": "sevilla",
-  "generated": "2026-11-11T17:07:58.540Z",
+  "generated": "2026-11-11T21:21:57.647Z",
   "event": {
     "id": "sev_6bmyrj",
     "name": "",
@@ -120,6 +120,17 @@
       "name": "Victor Vodegel",
       "club": "",
       "rating": 550,
+      "ts": 0,
+      "group": "",
+      "presence": "pending"
+    },
+    {
+      "id": "sev_uzgcmg",
+      "firstName": "Katarzyna",
+      "lastName": "Niedospial",
+      "name": "Katarzyna Niedospial",
+      "club": "",
+      "rating": 0,
       "ts": 0,
       "group": "",
       "presence": "pending"
