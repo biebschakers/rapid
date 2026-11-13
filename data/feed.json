@@ -1,7 +1,7 @@
 {
   "ok": true,
   "source": "sevilla",
-  "generated": "2026-11-12T09:08:58.238Z",
+  "generated": "2026-11-13T20:06:31.635Z",
   "event": {
     "id": "sev_6bmyrj",
     "name": "",
@@ -140,6 +140,17 @@
       "firstName": "Mursalin",
       "lastName": "Rehan",
       "name": "Mursalin Rehan",
+      "club": "",
+      "rating": 0,
+      "ts": 0,
+      "group": "",
+      "presence": "pending"
+    },
+    {
+      "id": "sev_8ypdvl",
+      "firstName": "Michael",
+      "lastName": "Martha",
+      "name": "Michael Martha",
       "club": "",
       "rating": 0,
       "ts": 0,
