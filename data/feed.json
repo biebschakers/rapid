@@ -1,7 +1,7 @@
 {
   "ok": true,
   "source": "sevilla",
-  "generated": "2026-11-16T00:14:47.996Z",
+  "generated": "2026-11-16T00:20:46.946Z",
   "event": {
     "id": "sev_6bmyrj",
     "name": "",
@@ -10,7 +10,7 @@
     "round": 0,
     "phase": "upcoming"
   },
-  "cap": 50,
+  "cap": 40,
   "rounds": 9,
   "round": 0,
   "players": [],
