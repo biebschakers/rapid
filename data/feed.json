@@ -1,7 +1,7 @@
 {
   "ok": true,
   "source": "sevilla",
-  "generated": "2026-11-16T00:35:44.470Z",
+  "generated": "2026-11-16T00:36:16.367Z",
   "event": {
     "id": "sev_6bmyrj",
     "name": "",
@@ -14,17 +14,6 @@
   "rounds": 9,
   "round": 0,
   "players": [
-    {
-      "id": "sev_fejdqe",
-      "firstName": "Nino",
-      "lastName": "Kingma",
-      "name": "Nino Kingma",
-      "club": "",
-      "rating": 0,
-      "ts": 0,
-      "group": "",
-      "presence": "pending"
-    },
     {
       "id": "sev_57g7wp",
       "firstName": "Nino",
